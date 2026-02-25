@@ -1,2 +1,0 @@
-# hamdy-telegram-bot
-🤖 Hamdy Bot | بوت حمدي الرسمي بوت تيليجرام مطوّر بواسطة حمدي، مصمم لتقديم أداء سريع واستجابة ذكية وتنفيذ المهام باحترافية. يعمل على مدار الساعة 24/7 مع كود نظيف وقابل للتطوير. Developed by Hamdy, this Telegram bot is built for speed, smart automation, and reliable performance. Runs 24/7 with clean, scalable, and efficient code.
