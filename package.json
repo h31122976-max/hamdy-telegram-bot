@@ -1,0 +1,19 @@
+{
+  "name": "hamdy-telegram-bot",
+  "version": "2.0.0",
+  "description": "Hamdy Advanced Telegram Bot",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-telegram-bot-api": "^0.64.0",
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5"
+  }
+}
